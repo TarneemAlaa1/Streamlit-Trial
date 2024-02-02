@@ -88,8 +88,8 @@ st.sidebar.checkbox("This is a checkbox")
 
 
 ## Graphs
-import matplotlib.pyplot as plt
-import numpy as np
+##import matplotlib.pyplot as plt
+##import numpy as np
 
-random= np.random.normal(1,2,size = 20)
+##random= np.random.normal(1,2,size = 20)
 
